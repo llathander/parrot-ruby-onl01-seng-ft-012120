@@ -1,6 +1,6 @@
 def parrot(x = "Squawk!")
   puts x 
-  x
+  return x
 end
 
 
